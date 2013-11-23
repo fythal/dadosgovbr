@@ -16,7 +16,7 @@ a {
 }
 #site-title h1 a{
 	background: url("images/marca.png") no-repeat 0 0;
-	heigth: 70px;
+	height: 70px;
 	width: 250px;
 }
 #top-bar .search-form input.search {
